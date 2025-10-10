@@ -40,7 +40,7 @@ Persists the final DataFrame into PostgreSQL using SQLAlchemy.
 
 **Writer class:** `PostgreSQLStorage`  
 Config parameters:
-```json
+ json
 {
   "dsn": "postgresql+psycopg://user:password@localhost:5432/test_db",
   "schema": "analytics",
