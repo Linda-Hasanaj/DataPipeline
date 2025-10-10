@@ -1,0 +1,1001 @@
+ip_address,marketing_channel,purchase,state,time_spent_seconds
+149.18.157.125,Category A,,Wyoming,1745
+108.29.170.186,Category C,,Maryland,953
+53.57.236.159,Category D,,Nebraska,1196
+106.136.105.81,Category A,,Michigan,863
+168.251.246.107,Category A,61.95,Florida,128
+89.182.106.94,Category A,,New Hampshire,1476
+18.52.140.128,Category A,,Rhode Island,804
+180.19.251.230,Category C,157.82,Wyoming,1047
+33.251.193.11,Category A,165.42,Tennessee,183
+215.204.58.235,Category A,,California,
+122.166.246.195,Category C,,Alabama,309
+188.9.253.176,Category C,154.79,Tennessee,
+249.152.138.208,Category C,,North Carolina,726
+9.47.23.230,Category B,151.2,Pennsylvania,1402
+58.254.35.52,Category C,,Oregon,666
+84.18.98.184,Category A,,Maryland,
+44.175.60.202,Category C,75.91,Massachusetts,119
+76.87.96.144,Category A,73.68,Wyoming,27
+24.50.14.201,Category A,,Mississippi,1348
+98.180.68.156,Category C,,Maine,279
+134.243.102.125,Category A,,Oklahoma,65
+37.43.83.230,Category A,,Maine,
+166.79.165.162,Category D,,New York,243
+120.91.36.159,Category A,87.73,Washington,1595
+70.116.156.246,Category A,,Pennsylvania,634
+41.43.197.63,Category C,124.44,West Virginia,1077
+194.70.227.144,Category C,172.25,Nevada,
+117.246.25.98,Category B,,Alabama,1354
+52.164.191.171,Category D,86.05,Colorado,880
+39.90.238.211,Category A,169.72,New Jersey,320
+102.9.120.157,Category A,,Virginia,247
+64.220.178.147,Category A,61.56,Nebraska,1050
+164.133.75.95,Category A,,Arkansas,649
+195.204.168.2,Category C,177.37,Idaho,1010
+35.139.140.187,Category A,,North Carolina,597
+173.0.199.150,Category A,163.61,Texas,1058
+11.234.222.254,Category D,,Oregon,
+76.142.225.204,Category C,204.93,Oregon,
+5.228.67.81,Category C,,Georgia,980
+175.130.193.227,Category C,,Ohio,1469
+57.15.132.205,Category A,198.97,Florida,1526
+103.255.168.6,Category A,,Arizona,565
+1.182.222.154,Category A,,Texas,
+248.36.31.7,Category C,,New Jersey,509
+159.176.38.174,Category C,,Washington,1687
+144.103.145.125,Category B,161.23,Missouri,1487
+82.20.145.29,Category A,,Kansas,
+163.192.18.64,Category A,,Idaho,1151
+15.77.172.200,Category C,200.61,Delaware,960
+1.225.61.87,Category D,,Georgia,1169
+123.77.115.108,Category A,207.33,Florida,541
+138.189.35.161,Category A,,Kentucky,644
+186.13.24.201,Category A,,Iowa,600
+99.186.232.255,Category B,,Virginia,535
+141.188.35.218,Category A,,Arizona,792
+179.82.186.141,Category C,,Massachusetts,440
+64.175.216.242,Category A,77.52,Nebraska,732
+12.153.225.200,Category C,128.26,North Dakota,280
+45.5.193.232,Category A,134.04,Utah,1426
+217.172.124.22,Category D,33.34,Nevada,762
+25.209.158.221,Category D,,Alabama,1709
+133.212.167.98,Category B,74.89,Nevada,809
+65.151.166.223,Category A,,North Carolina,393
+26.188.79.24,Category C,,Virginia,921
+188.152.113.234,Category A,,North Carolina,1265
+250.143.36.228,Category A,114.04,Missouri,92
+40.10.221.96,Category D,,Alaska,
+240.9.47.160,Category C,,Utah,451
+155.245.25.196,Category D,202.8,Georgia,1128
+167.64.195.108,Category C,,Massachusetts,42
+156.202.75.29,Category A,164.32,Georgia,1157
+174.153.242.175,Category B,,California,323
+211.180.115.44,Category A,,Alabama,1709
+98.255.177.78,Category B,,Mississippi,
+71.240.54.143,Category C,121.44,Louisiana,1039
+155.45.110.179,Category C,103.23,Kansas,
+47.240.29.225,Category A,34.7,Tennessee,
+216.112.151.63,Category D,116.74,Massachusetts,121
+97.36.190.205,Category D,41.63,California,1202
+132.246.17.125,Category A,216.3,South Dakota,
+42.27.192.129,Category A,133.44,Michigan,1011
+181.62.30.74,Category C,,Utah,
+82.43.2.207,Category C,,Kentucky,
+30.63.129.36,Category B,11.51,Tennessee,
+45.8.203.116,Category D,,Idaho,
+203.8.26.62,Category A,91.43,South Carolina,
+214.225.61.200,Category A,66.31,Rhode Island,1229
+127.81.141.14,Category C,169.67,Alabama,96
+119.161.123.44,Category C,,North Carolina,494
+195.13.181.152,Category C,89.68,Nebraska,752
+218.152.210.183,Category A,,Massachusetts,576
+114.129.8.137,Category C,,Arkansas,1437
+192.136.116.235,Category A,,Illinois,493
+139.109.243.145,Category C,,New Jersey,
+82.122.251.23,Category B,109.75,New Mexico,643
+222.7.46.168,Category A,,Maryland,127
+238.201.81.119,Category A,23.18,Minnesota,595
+217.22.53.10,Category C,19.25,Virginia,
+160.129.34.226,Category C,,Montana,
+103.79.163.92,Category D,163.99,New Jersey,633
+41.211.181.164,Category C,,South Carolina,
+105.81.37.208,Category A,,Pennsylvania,1781
+85.137.235.48,Category B,206.28,Missouri,1648
+196.226.20.22,Category B,,North Carolina,163
+219.201.228.197,Category C,,Mississippi,
+97.130.6.143,Category D,,Illinois,1591
+158.46.70.95,Category A,,Texas,
+97.47.242.56,Category A,,Florida,1661
+247.173.68.166,Category D,20.97,Maine,1101
+67.78.245.25,Category A,157.05,New York,
+181.215.231.218,Category C,,Florida,525
+189.241.65.52,Category A,,Louisiana,
+235.253.44.157,Category D,,Connecticut,
+222.69.98.221,Category C,204.1,Arkansas,
+34.54.228.66,Category A,,Alabama,1077
+101.33.78.217,Category D,85.04,Idaho,23
+200.74.185.135,Category A,118.49,Alaska,1552
+137.7.10.41,Category C,200.28,Rhode Island,905
+12.245.58.38,Category A,137.17,Mississippi,928
+4.117.124.175,Category C,160.07,Massachusetts,1734
+47.169.121.127,Category A,,New Mexico,621
+62.117.136.253,Category A,,Connecticut,48
+36.139.36.12,Category A,,Texas,1522
+189.169.15.34,Category A,,Indiana,1659
+155.120.192.66,Category A,105.78,Montana,680
+202.150.179.51,Category A,,Virginia,666
+44.186.172.55,Category A,102.5,Rhode Island,1079
+84.42.153.174,Category B,,Georgia,111
+39.233.79.224,Category A,,North Dakota,501
+90.219.174.245,Category C,97.1,Arkansas,597
+184.136.94.217,Category B,,Wisconsin,
+135.217.119.159,Category C,,Maryland,
+111.19.24.171,Category C,,Iowa,
+6.101.200.226,Category D,69.75,Oklahoma,
+124.95.119.72,Category C,11.88,Minnesota,1575
+241.98.70.142,Category D,,Arkansas,1793
+236.186.91.217,Category A,17.62,Michigan,652
+69.222.199.93,Category D,,Colorado,856
+48.150.9.237,Category C,19.77,Mississippi,789
+26.228.174.241,Category A,95.27,Oklahoma,469
+108.30.95.124,Category B,47.03,Nevada,618
+83.244.90.225,Category B,70.47,New York,
+59.84.154.109,Category B,191.99,Iowa,104
+211.47.230.116,Category D,209.12,Michigan,1145
+173.224.253.77,Category C,185.41,Arkansas,
+45.91.4.75,Category C,103.62,Georgia,737
+253.30.187.157,Category C,,Georgia,517
+155.244.140.207,Category A,,Utah,1689
+141.227.208.80,Category C,,Minnesota,663
+7.251.10.16,Category C,107.18,Maine,348
+28.178.29.25,Category C,,Delaware,425
+96.147.225.61,Category A,80.97,Georgia,1336
+115.20.246.104,Category B,105.16,Wisconsin,1022
+24.155.141.133,Category D,22.73,Indiana,
+229.242.205.138,Category B,219.1,Illinois,
+28.248.50.89,Category C,,Arkansas,1211
+227.35.247.105,Category D,90.15,South Dakota,469
+24.244.103.247,Category B,58.31,Wyoming,1534
+176.241.106.96,Category B,,New Hampshire,207
+18.42.119.230,Category D,,Arizona,1081
+221.133.152.95,Category A,97.32,Virginia,303
+131.133.152.144,Category A,,Hawaii,
+191.182.72.40,Category A,,Louisiana,37
+16.126.115.135,Category D,,South Carolina,784
+152.141.175.26,Category C,150.52,Mississippi,800
+120.84.204.250,Category A,,Rhode Island,1562
+221.146.110.190,Category B,,West Virginia,896
+244.214.180.200,Category A,,Alabama,1706
+43.238.232.13,Category C,,West Virginia,
+84.189.223.26,Category B,,Washington,581
+38.221.137.175,Category A,,Texas,1054
+196.109.23.96,Category D,132.9,Illinois,1575
+187.75.39.167,Category A,31.97,Montana,660
+239.236.42.102,Category A,,Alaska,731
+28.186.224.16,Category A,67.34,Delaware,
+192.58.137.80,Category D,,Connecticut,609
+91.176.171.112,Category A,,Colorado,824
+181.82.77.42,Category D,183.16,Mississippi,1360
+46.204.97.225,Category A,,Montana,888
+2.132.195.178,Category A,,Georgia,1438
+26.113.9.5,Category D,37.8,Texas,
+122.148.81.156,Category A,126.35,Georgia,1174
+188.20.133.132,Category A,,Rhode Island,625
+112.123.63.192,Category D,,New Mexico,222
+121.254.138.135,Category B,52.5,Maryland,
+43.33.38.141,Category A,,Georgia,
+11.253.52.238,Category B,,Virginia,1284
+88.65.184.131,Category D,,Washington,861
+130.101.142.189,Category A,,Washington,1013
+10.225.197.210,Category A,27.08,West Virginia,1283
+65.197.114.87,Category C,25.93,Hawaii,512
+255.102.246.85,Category C,,New Mexico,170
+74.151.248.216,Category A,,South Dakota,
+216.198.209.34,Category A,,New York,1693
+94.8.14.208,Category A,,Delaware,1341
+226.85.152.8,Category C,92.05,North Dakota,1435
+119.44.114.237,Category A,117.14,Oklahoma,
+105.12.13.59,Category C,,Vermont,1553
+240.81.28.227,Category A,149.39,Mississippi,835
+178.51.219.130,Category C,,Rhode Island,1377
+115.13.191.253,Category D,,Kansas,
+44.255.5.5,Category C,131.57,Oregon,490
+192.234.124.14,Category A,188.15,Arizona,70
+91.207.65.5,Category C,211.73,Florida,
+129.178.137.87,Category A,140.27,Texas,
+69.207.111.54,Category D,52.94,Washington,
+1.169.164.155,Category A,,Delaware,1702
+79.201.202.101,Category C,198.17,New Jersey,1502
+151.6.27.52,Category A,,Arizona,
+138.184.70.74,Category A,,Florida,1269
+71.37.29.6,Category D,,Florida,24
+129.92.198.20,Category A,,Georgia,676
+19.182.235.185,Category D,,Colorado,653
+150.65.34.192,Category A,131.59,North Dakota,573
+171.89.124.175,Category A,,Nebraska,1413
+139.56.73.133,Category D,11.73,Texas,
+33.219.239.190,Category C,,Illinois,
+203.15.229.242,Category A,190.39,Florida,
+141.129.110.102,Category A,111.31,Idaho,1255
+172.70.177.219,Category C,55.67,Alabama,1055
+223.208.110.148,Category A,173.76,Texas,995
+178.197.17.62,Category D,,Missouri,209
+87.158.210.184,Category A,219.13,Mississippi,
+195.58.214.163,Category A,,Texas,
+132.121.91.143,Category A,120.84,Virginia,
+177.177.89.99,Category D,180.94,Rhode Island,1040
+88.83.18.106,Category A,,Tennessee,1793
+152.45.140.223,Category A,,Ohio,1039
+27.168.17.12,Category A,,Massachusetts,1737
+105.221.150.103,Category A,,Nevada,546
+42.231.9.216,Category C,,Missouri,
+195.120.109.189,Category A,116.62,South Carolina,872
+194.244.194.161,Category B,111.26,Montana,1551
+82.223.252.6,Category B,,Nebraska,249
+89.197.244.200,Category C,,West Virginia,1169
+72.236.202.2,Category D,78.32,Texas,254
+177.142.171.176,Category A,,New Mexico,333
+44.184.185.61,Category D,,Alaska,991
+89.36.140.107,Category C,127.32,Washington,795
+254.183.221.191,Category C,126.94,Kentucky,1787
+158.178.104.67,Category A,,Tennessee,914
+185.244.85.58,Category B,,Mississippi,1267
+219.163.139.168,Category A,147.67,Florida,
+57.28.175.22,Category D,,Tennessee,1057
+254.169.190.229,Category A,,Indiana,1679
+54.186.64.122,Category D,213.22,Louisiana,955
+123.166.152.164,Category A,33.98,New Hampshire,895
+246.131.222.136,Category C,,Nebraska,260
+156.96.124.1,Category C,,Minnesota,1177
+191.44.143.10,Category A,,Arizona,784
+26.70.127.48,Category A,,Rhode Island,129
+213.5.103.122,Category C,,New Mexico,26
+164.18.245.87,Category C,12.74,Virginia,
+5.235.112.17,Category A,,Kansas,1737
+212.214.38.83,Category A,62.75,New Mexico,378
+29.205.213.246,Category D,,Pennsylvania,1570
+0.56.7.238,Category C,,South Carolina,224
+18.171.63.72,Category C,150.35,Missouri,
+104.251.184.98,Category A,201.53,Texas,692
+160.144.94.145,Category A,,Virginia,154
+1.241.192.145,Category A,91.9,New Jersey,1397
+74.142.225.146,Category A,,Minnesota,625
+76.96.49.149,Category A,97.04,Montana,
+185.147.75.42,Category B,,Nebraska,
+137.162.173.162,Category C,,New Hampshire,80
+148.245.39.14,Category D,128.18,Kansas,918
+9.123.125.72,Category D,,North Carolina,
+59.11.238.97,Category A,209.83,Iowa,
+104.155.134.242,Category C,,Minnesota,1654
+177.113.8.61,Category A,89.55,New Mexico,1283
+187.19.141.146,Category A,98.59,Pennsylvania,641
+210.203.75.246,Category D,,South Carolina,1198
+26.255.171.199,Category C,69.93,Montana,
+194.62.21.14,Category A,,Washington,1229
+87.210.162.86,Category B,19.2,Kansas,
+8.161.247.33,Category B,,Vermont,790
+10.249.184.56,Category B,195.66,Arkansas,
+239.177.221.205,Category A,118.73,Iowa,
+88.166.34.95,Category D,,Pennsylvania,17
+79.201.162.129,Category A,,New Jersey,112
+62.174.67.32,Category A,52.42,Montana,975
+131.47.110.34,Category A,,Rhode Island,477
+65.125.210.13,Category B,195.42,Vermont,310
+147.69.103.243,Category A,,Maryland,40
+75.127.12.254,Category C,,Vermont,288
+129.63.138.163,Category A,,North Carolina,1622
+250.228.221.116,Category A,,North Dakota,1650
+116.42.60.234,Category A,41.33,Vermont,258
+19.111.19.64,Category C,,Kansas,1296
+175.122.127.125,Category B,,Montana,1520
+80.91.72.71,Category A,142.91,Arkansas,303
+87.170.100.37,Category C,188.99,Kansas,
+54.253.9.254,Category D,78.71,Nebraska,
+127.7.100.206,Category A,177.58,Louisiana,1325
+23.235.216.10,Category A,56.42,Montana,179
+209.161.122.102,Category A,47.96,South Dakota,1690
+137.233.131.232,Category A,187.49,Rhode Island,
+82.151.233.113,Category A,,Alaska,1632
+67.7.158.120,Category A,180.87,Kentucky,377
+64.79.59.37,Category C,,Washington,1150
+80.66.222.147,Category B,,Indiana,1722
+138.3.53.146,Category A,,New Jersey,1681
+45.78.19.36,Category C,,Rhode Island,687
+79.224.204.208,Category D,,Massachusetts,1603
+106.254.192.151,Category C,25.34,Kansas,1758
+132.49.249.140,Category A,119.65,Oklahoma,193
+60.254.9.87,Category D,76.05,Kansas,1472
+224.2.71.58,Category C,,Texas,1339
+73.234.177.60,Category D,204.8,Montana,
+50.194.144.75,Category A,192.31,New Hampshire,999
+60.254.244.33,Category A,,Arizona,
+131.150.56.4,Category A,,West Virginia,1034
+23.241.151.52,Category C,,Wyoming,884
+184.102.201.56,Category D,198.93,West Virginia,1551
+151.48.12.173,Category D,,Connecticut,1333
+152.173.170.149,Category D,184.79,Ohio,
+9.50.141.138,Category A,160.68,Kentucky,1185
+243.157.51.213,Category D,22.45,North Dakota,1761
+140.177.229.76,Category A,,Oklahoma,587
+149.89.35.163,Category A,,Oregon,
+207.41.173.4,Category D,51.13,Delaware,1135
+207.162.125.3,Category A,199.59,Kansas,732
+99.200.150.41,Category A,81.11,Michigan,46
+203.233.29.69,Category A,,Mississippi,614
+66.6.58.237,Category C,,Idaho,468
+62.89.96.86,Category A,,Indiana,240
+245.221.194.151,Category A,,Wyoming,1137
+192.127.128.224,Category A,,Georgia,
+57.93.89.176,Category A,,Illinois,
+56.62.151.239,Category C,,Missouri,1659
+241.208.16.134,Category C,105.39,South Dakota,1307
+43.136.90.27,Category D,141.3,Louisiana,595
+124.86.134.148,Category A,94.65,Oregon,414
+243.43.169.212,Category C,,Vermont,
+42.33.254.90,Category A,,New Jersey,98
+230.107.66.46,Category D,108.48,New Mexico,
+78.173.211.88,Category D,34.98,Utah,348
+174.249.71.220,Category A,,New Jersey,
+116.121.206.181,Category C,189.38,Mississippi,
+83.26.122.13,Category A,104.04,Illinois,851
+125.192.99.106,Category A,182.12,Texas,1626
+182.50.99.101,Category B,,Wisconsin,
+225.197.8.23,Category A,82.34,Minnesota,1714
+27.192.232.179,Category B,145.02,Montana,853
+122.112.114.253,Category C,155.63,Rhode Island,309
+205.220.30.106,Category A,,New Jersey,1003
+85.188.227.11,Category A,,Montana,1016
+47.240.84.11,Category A,,Mississippi,1755
+133.185.176.239,Category A,,Hawaii,250
+153.131.87.15,Category C,,Wyoming,1565
+29.206.81.26,Category C,,Indiana,1577
+121.123.211.109,Category A,,Massachusetts,707
+213.226.173.236,Category B,,Wyoming,1656
+172.160.194.110,Category C,130.66,Kentucky,
+35.194.250.121,Category C,41.91,Maine,1271
+182.5.225.168,Category A,58.34,Ohio,1797
+197.14.50.5,Category D,,California,
+160.154.191.210,Category A,11.53,Maine,816
+30.140.189.57,Category A,,Nebraska,945
+110.150.180.92,Category B,,Washington,334
+158.232.68.1,Category A,109.67,Kentucky,510
+211.23.162.229,Category A,213.62,Maine,947
+164.6.61.97,Category A,77.88,Utah,1645
+128.204.201.87,Category B,,Illinois,931
+207.242.221.225,Category D,,Indiana,1499
+79.190.68.240,Category D,124.95,Iowa,1049
+245.234.27.169,Category A,,Idaho,1664
+138.46.3.97,Category A,,West Virginia,928
+27.161.46.48,Category A,,Missouri,1003
+45.247.229.248,Category A,,Colorado,
+106.88.106.159,Category A,52.97,Wyoming,673
+143.10.152.150,Category A,,Maryland,651
+132.242.226.53,Category D,160.41,Kentucky,810
+9.5.105.100,Category B,,Minnesota,250
+146.231.134.137,Category C,,Mississippi,737
+77.34.117.4,Category A,23.33,West Virginia,1481
+6.252.8.225,Category A,,California,
+238.237.126.179,Category C,13.21,Arizona,50
+213.223.12.187,Category B,,Idaho,1237
+35.15.201.238,Category C,196.95,Massachusetts,1385
+52.214.129.235,Category A,,North Carolina,1303
+93.98.85.221,Category A,129.87,Idaho,1047
+30.146.153.224,Category C,,Kansas,1529
+144.11.117.125,Category A,197.32,Arkansas,1641
+228.215.111.59,Category C,172.85,Nevada,923
+229.156.116.95,Category B,,Georgia,362
+233.172.130.22,Category A,34.06,Minnesota,699
+95.5.226.118,Category A,107.02,Illinois,1017
+71.1.112.100,Category A,,Alabama,509
+145.127.236.43,Category A,,Pennsylvania,877
+92.205.42.115,Category C,16.85,Arizona,570
+32.233.101.40,Category A,,Mississippi,115
+7.100.73.76,Category A,24.83,West Virginia,501
+176.121.221.105,Category D,140.81,Tennessee,560
+106.61.236.60,Category A,,Oklahoma,365
+22.176.105.150,Category A,85.13,Iowa,554
+162.131.128.25,Category B,,South Carolina,693
+111.170.178.69,Category A,,Mississippi,863
+226.82.80.113,Category A,50.67,Vermont,301
+174.116.33.164,Category A,,Montana,451
+246.20.187.124,Category B,,Maryland,222
+150.46.193.15,Category D,25.66,Iowa,1152
+28.134.153.93,Category D,49.38,California,993
+199.61.87.119,Category A,204.59,Montana,1634
+211.15.253.156,Category D,75.49,North Dakota,915
+139.207.225.236,Category B,106.77,Louisiana,718
+43.82.179.187,Category A,,Massachusetts,1309
+76.204.50.250,Category C,99.35,New York,554
+41.233.16.71,Category A,,North Dakota,1036
+193.170.150.52,Category D,54.12,Iowa,1558
+78.163.42.251,Category A,,Georgia,
+166.232.91.169,Category D,,Oregon,
+252.35.162.155,Category D,,Massachusetts,112
+110.136.133.193,Category B,,New York,
+193.129.137.0,Category C,,Montana,1081
+226.169.153.35,Category A,,Washington,703
+23.103.223.24,Category D,141.4,West Virginia,1602
+207.213.208.95,Category A,187.4,Rhode Island,382
+168.106.201.142,Category C,,Wisconsin,1424
+163.98.75.246,Category C,,California,1676
+199.239.107.94,Category C,,Iowa,1449
+34.9.104.78,Category D,121.05,Washington,775
+77.181.13.182,Category C,,Arizona,1543
+192.52.133.37,Category A,18.12,Kansas,
+187.37.128.95,Category D,167.62,Oregon,828
+246.10.128.154,Category A,,Mississippi,1762
+188.243.4.37,Category B,,West Virginia,
+35.175.242.134,Category B,79.3,Nebraska,134
+37.229.213.210,Category C,117.14,North Dakota,966
+130.94.53.103,Category C,,Nebraska,871
+103.212.71.180,Category A,186.58,New Jersey,120
+95.206.209.148,Category A,,Arizona,1788
+0.216.30.23,Category A,,Tennessee,981
+133.37.154.151,Category A,,Alaska,
+52.51.121.167,Category C,,Iowa,1225
+162.31.36.97,Category A,,California,452
+133.158.51.52,Category C,,North Carolina,1273
+135.174.53.131,Category B,101.68,Idaho,887
+244.169.251.204,Category A,,Indiana,
+52.198.53.193,Category A,,Delaware,1452
+120.59.168.232,Category A,46.02,Wisconsin,
+212.152.112.7,Category D,,Missouri,1041
+222.239.240.235,Category D,,Kentucky,497
+78.15.165.254,Category A,,Maryland,768
+226.42.42.81,Category A,,North Dakota,12
+45.188.1.101,Category C,194.16,Delaware,1308
+217.235.127.60,Category A,107.96,Utah,531
+243.194.205.227,Category D,,Florida,
+68.226.146.241,Category C,,Nevada,894
+196.17.226.9,Category A,15.92,Kansas,772
+47.15.241.151,Category C,155.16,Arizona,
+240.179.61.156,Category A,,Delaware,836
+207.103.187.30,Category D,26.93,Alaska,
+122.5.113.191,Category C,134.83,Massachusetts,1360
+180.75.185.149,Category A,,South Dakota,1404
+36.97.23.108,Category A,162.79,Indiana,1428
+79.45.120.37,Category A,,Idaho,
+218.125.131.141,Category A,,New York,842
+237.172.111.177,Category D,,Connecticut,1053
+153.133.33.179,Category A,,Vermont,791
+248.169.117.226,Category A,,Alaska,
+136.108.35.101,Category B,206.85,Colorado,
+229.234.137.228,Category A,100.9,Kansas,1066
+71.1.107.90,Category C,95.69,Connecticut,159
+90.139.165.172,Category A,,Wyoming,1758
+150.63.99.242,Category C,,Iowa,1237
+81.222.131.124,Category D,140.3,Wyoming,
+119.99.126.194,Category A,11.19,Washington,1459
+55.219.13.252,Category A,,Illinois,1044
+233.149.254.149,Category C,,New York,1526
+140.96.224.149,Category A,63.5,Hawaii,1651
+252.202.117.104,Category C,204.25,Oklahoma,1333
+196.222.101.232,Category B,,Colorado,1540
+244.108.223.165,Category A,139.99,Ohio,681
+130.201.193.122,Category C,,South Dakota,894
+224.218.120.126,Category A,11.72,South Carolina,1289
+177.64.165.112,Category C,,South Dakota,1294
+135.34.32.50,Category A,195.31,Washington,
+23.79.84.57,Category A,,Wyoming,1696
+124.132.185.214,Category A,142.67,Louisiana,1442
+194.239.105.18,Category A,,Oklahoma,1260
+109.67.115.211,Category D,,Indiana,1332
+229.179.98.10,Category B,,Connecticut,1118
+94.228.36.151,Category D,188.75,Illinois,977
+227.126.51.178,Category A,157.9,South Dakota,1568
+174.248.199.121,Category A,76.37,Colorado,63
+71.240.39.106,Category D,,Washington,406
+24.232.68.167,Category C,169.89,California,930
+37.175.26.199,Category A,,Texas,143
+144.74.112.125,Category A,,Alabama,
+113.46.57.20,Category A,,Tennessee,503
+34.124.108.65,Category C,,Virginia,799
+75.40.197.23,Category B,,Kentucky,
+198.164.44.147,Category C,72.25,Kansas,313
+4.245.24.196,Category A,,Wisconsin,
+210.32.85.30,Category D,40.51,Hawaii,902
+222.115.245.149,Category C,175.86,Idaho,619
+119.151.88.128,Category A,108.66,Alabama,
+129.111.85.2,Category D,,Missouri,1134
+121.245.38.183,Category D,86.23,Louisiana,1178
+143.139.181.63,Category D,26.78,Oklahoma,805
+146.145.39.157,Category C,173.53,Hawaii,889
+166.189.89.56,Category D,,Alabama,1718
+106.112.46.122,Category A,,Massachusetts,400
+249.198.59.48,Category A,87.64,Idaho,1285
+207.179.148.122,Category A,,Georgia,1441
+32.79.183.94,Category C,,Massachusetts,318
+219.129.205.9,Category A,146.15,Iowa,925
+135.169.9.90,Category C,,Kentucky,129
+246.122.244.219,Category B,178.38,Ohio,66
+217.21.48.183,Category A,154.21,Oklahoma,787
+246.179.158.72,Category A,,Alabama,1088
+200.14.236.74,Category D,,Ohio,
+231.6.152.176,Category D,12.08,West Virginia,1732
+78.215.54.121,Category A,146.6,Alabama,728
+91.168.84.81,Category A,,Oregon,
+139.230.168.78,Category A,,Tennessee,186
+50.101.183.246,Category C,145.25,Colorado,
+148.46.116.203,Category A,173.77,Nevada,952
+162.251.74.98,Category C,,Illinois,587
+21.182.3.101,Category A,138.77,Kansas,192
+18.89.153.134,Category A,,Texas,
+102.30.162.204,Category A,,California,
+201.176.173.97,Category D,46.87,Mississippi,848
+120.217.141.70,Category C,181.0,Montana,
+246.253.86.85,Category A,25.08,Montana,812
+78.75.213.251,Category A,182.9,Tennessee,90
+223.77.16.136,Category A,217.97,South Carolina,1502
+46.38.24.200,Category A,,Virginia,89
+209.238.105.134,Category A,,New Jersey,1335
+229.125.248.169,Category D,69.82,Maine,60
+5.74.172.46,Category B,89.07,Texas,1757
+111.159.122.119,Category A,,New Jersey,1010
+143.89.55.204,Category A,,Louisiana,1789
+95.165.71.25,Category C,,Iowa,1023
+29.101.249.126,Category A,,Hawaii,474
+49.228.43.27,Category A,,Kansas,1701
+47.180.74.165,Category A,,South Dakota,
+87.180.153.89,Category A,125.89,Georgia,749
+125.124.36.56,Category C,,Oregon,1057
+133.140.85.229,Category A,,Minnesota,403
+239.240.176.191,Category D,136.17,North Dakota,535
+119.21.195.218,Category C,,Vermont,304
+211.92.148.16,Category D,165.73,South Carolina,607
+55.91.82.17,Category A,74.28,Idaho,78
+77.58.113.141,Category D,148.02,Virginia,1607
+8.174.67.190,Category B,,Nebraska,441
+137.151.178.68,Category C,54.23,Missouri,531
+3.109.235.109,Category A,138.24,Arizona,1119
+187.207.134.29,Category A,130.46,Ohio,969
+218.111.123.194,Category D,46.64,Louisiana,387
+113.169.188.46,Category D,115.15,Hawaii,1025
+185.164.97.106,Category D,179.54,New Jersey,444
+187.100.28.22,Category B,,Vermont,1795
+228.103.109.239,Category C,,Louisiana,901
+238.242.168.139,Category B,,Ohio,
+192.222.72.246,Category A,169.34,Hawaii,
+231.58.45.3,Category C,125.38,Oregon,
+47.30.109.151,Category A,110.56,Alabama,1512
+131.9.17.153,Category A,131.97,Alaska,469
+3.114.89.227,Category A,89.82,Ohio,152
+240.91.52.172,Category D,,North Carolina,24
+83.87.18.185,Category A,,Vermont,1056
+2.247.196.182,Category C,41.97,Alaska,
+182.119.241.196,Category B,,Mississippi,1358
+77.15.62.181,Category C,43.27,Hawaii,
+60.178.188.227,Category A,,Pennsylvania,1422
+120.44.120.27,Category D,51.27,Maine,
+2.224.118.2,Category B,183.6,Texas,1175
+117.122.125.167,Category A,87.3,Kentucky,1018
+161.163.248.40,Category C,,Maryland,1384
+51.33.141.71,Category C,,Missouri,540
+132.246.226.176,Category D,,Montana,362
+7.138.167.123,Category A,69.26,New Jersey,346
+18.46.21.100,Category D,,Arkansas,1491
+19.185.179.185,Category C,,Maine,859
+250.111.208.200,Category B,209.03,Utah,1753
+16.111.112.114,Category C,,Utah,1216
+240.189.182.154,Category A,218.62,California,1148
+148.74.128.242,Category C,,Missouri,1212
+142.231.8.182,Category A,216.26,Massachusetts,1014
+64.142.114.138,Category A,86.35,Kentucky,746
+31.212.50.30,Category A,151.86,Arkansas,549
+5.56.143.175,Category A,,Alabama,373
+115.90.26.172,Category D,,Maryland,599
+198.154.9.19,Category A,,Hawaii,868
+70.76.178.23,Category C,,Wyoming,1438
+112.1.234.172,Category B,100.4,South Carolina,1238
+173.2.3.152,Category B,,Louisiana,
+119.197.36.86,Category A,115.34,Idaho,696
+38.196.78.101,Category C,33.32,Nebraska,
+145.92.244.10,Category A,202.03,Washington,
+143.118.248.7,Category C,,Kansas,
+217.188.11.181,Category A,166.84,Hawaii,764
+172.36.55.5,Category A,,Tennessee,1404
+192.134.25.130,Category A,,Arkansas,784
+127.115.212.99,Category C,,Maryland,1125
+255.56.84.84,Category D,12.52,Minnesota,1470
+223.4.159.120,Category A,,Georgia,767
+141.38.54.236,Category A,196.73,Montana,884
+117.88.39.88,Category A,128.7,Idaho,404
+45.17.190.11,Category A,189.72,Mississippi,
+227.26.134.92,Category A,,Oregon,294
+121.67.142.17,Category C,,Arkansas,
+216.207.245.168,Category C,35.09,Virginia,767
+229.138.0.48,Category A,112.8,Nebraska,1372
+184.227.244.213,Category A,,Illinois,
+18.167.34.147,Category A,,California,1617
+6.149.139.167,Category A,146.79,Kansas,
+204.14.239.94,Category C,,Oregon,803
+147.242.156.214,Category A,23.84,Nebraska,
+116.88.94.249,Category A,,Minnesota,558
+150.92.26.180,Category A,160.64,Mississippi,239
+7.170.56.233,Category A,,Alaska,822
+41.80.66.69,Category A,,Massachusetts,
+248.190.203.145,Category D,136.23,Delaware,
+171.53.113.50,Category B,,Wyoming,
+70.159.64.230,Category C,,Florida,1207
+107.178.83.178,Category C,121.67,Arkansas,1560
+72.48.192.11,Category A,,Tennessee,230
+186.184.224.5,Category C,,Arkansas,
+29.203.13.111,Category D,,Alabama,
+78.168.35.13,Category A,,Alabama,1358
+183.176.37.241,Category A,,Arizona,
+7.241.220.70,Category C,,Louisiana,1675
+111.7.122.253,Category A,,North Carolina,1010
+58.94.40.31,Category A,,Vermont,
+148.214.4.141,Category C,159.79,Pennsylvania,728
+169.237.22.76,Category C,,New Hampshire,1651
+119.150.183.162,Category A,78.43,Hawaii,1693
+183.30.58.195,Category A,,Colorado,1475
+157.45.186.200,Category A,,Vermont,1060
+132.218.169.77,Category A,119.86,Pennsylvania,923
+52.178.8.7,Category A,,Rhode Island,827
+220.43.83.198,Category D,37.91,Connecticut,
+29.227.121.144,Category B,82.57,Hawaii,
+83.36.188.87,Category D,200.64,Arkansas,468
+31.67.28.142,Category C,,Ohio,193
+198.241.144.110,Category A,,Florida,1372
+121.46.174.139,Category C,,South Carolina,752
+30.109.88.124,Category B,,Utah,1307
+203.77.20.0,Category A,125.85,Idaho,1134
+15.85.19.49,Category C,,Utah,223
+61.16.198.0,Category A,146.8,Oklahoma,1725
+106.187.196.219,Category A,110.65,West Virginia,1106
+22.198.16.209,Category D,,Alabama,976
+197.66.99.90,Category D,70.54,Idaho,1287
+195.244.138.221,Category C,64.06,Ohio,1281
+171.224.21.159,Category A,,Nebraska,828
+12.12.43.104,Category D,,Maine,130
+117.73.99.188,Category C,,North Carolina,1500
+211.94.27.192,Category B,,Oregon,1254
+98.47.77.80,Category C,171.56,Maine,605
+244.15.177.142,Category A,,Idaho,1766
+168.242.39.14,Category C,,Minnesota,1730
+113.82.239.17,Category B,144.47,Alabama,469
+117.120.29.73,Category C,,Mississippi,624
+30.46.134.44,Category C,,Minnesota,
+127.200.157.70,Category C,,California,1451
+220.107.47.201,Category A,132.32,New Mexico,213
+119.86.149.146,Category C,,Arkansas,1285
+58.39.186.30,Category A,,Connecticut,663
+9.199.177.157,Category A,165.15,Rhode Island,
+48.249.92.3,Category A,,Iowa,1625
+12.77.89.195,Category A,149.68,California,873
+219.22.239.29,Category D,,Arkansas,1404
+99.252.97.143,Category A,,Arkansas,1573
+138.38.122.120,Category C,,Wyoming,
+227.183.255.70,Category C,,Georgia,
+183.7.81.20,Category A,215.21,Texas,982
+251.44.40.7,Category A,,Delaware,91
+10.100.83.90,Category C,,Nebraska,1561
+85.6.83.183,Category C,23.21,Nevada,486
+23.170.189.247,Category C,,Maryland,150
+93.17.155.209,Category A,,Tennessee,1292
+85.57.35.30,Category A,,West Virginia,598
+8.67.244.196,Category B,43.17,Alabama,476
+230.179.238.204,Category C,,Texas,943
+38.154.195.54,Category A,,Vermont,1464
+198.132.226.118,Category C,186.55,Massachusetts,
+164.205.233.142,Category C,,Missouri,81
+214.2.90.62,Category A,64.84,Mississippi,1027
+49.232.193.85,Category A,,Pennsylvania,1366
+24.211.20.78,Category A,168.97,Colorado,536
+38.154.59.72,Category C,,Virginia,788
+144.106.123.231,Category C,,Michigan,814
+55.160.247.205,Category C,,Oklahoma,1520
+75.190.231.170,Category A,,Wyoming,1538
+178.54.202.33,Category A,209.74,Tennessee,422
+147.221.165.39,Category A,213.07,Florida,
+219.142.255.16,Category C,48.82,West Virginia,22
+204.116.3.226,Category D,,New Jersey,664
+150.162.244.56,Category C,,Mississippi,438
+129.56.217.118,Category A,145.44,New Mexico,1589
+127.235.168.241,Category C,,Idaho,1522
+188.147.155.155,Category B,151.8,New Mexico,258
+154.146.164.181,Category A,129.54,Wyoming,992
+75.56.59.31,Category A,140.38,Delaware,838
+91.43.43.159,Category C,158.85,Louisiana,1750
+179.163.157.248,Category A,111.66,Iowa,1395
+181.227.30.137,Category D,,Kentucky,688
+44.132.244.41,Category D,,Utah,
+195.168.116.192,Category D,26.76,Connecticut,985
+14.147.101.45,Category D,,New Mexico,1434
+49.91.65.2,Category A,,Wisconsin,715
+18.137.95.238,Category D,130.01,Colorado,1761
+32.127.35.166,Category A,177.91,New York,1070
+13.110.133.11,Category C,,West Virginia,1016
+177.168.199.55,Category A,,Wisconsin,968
+111.173.184.119,Category A,162.09,California,1000
+245.40.138.125,Category A,,Nevada,1655
+5.203.175.251,Category A,,Iowa,403
+81.5.23.49,Category A,188.14,New York,1482
+134.44.95.133,Category C,,West Virginia,643
+42.26.77.33,Category A,69.63,Kentucky,785
+118.80.49.251,Category A,41.13,New Hampshire,1027
+146.2.153.54,Category A,146.1,Maine,571
+236.130.4.139,Category C,182.23,Utah,1582
+11.100.136.155,Category B,11.58,Montana,1448
+178.101.11.30,Category A,,Rhode Island,448
+254.164.63.168,Category C,,Vermont,833
+122.32.213.125,Category A,,Delaware,668
+47.95.14.114,Category D,,Idaho,614
+127.40.248.135,Category C,28.4,Oklahoma,671
+213.249.2.153,Category C,,Louisiana,491
+214.190.30.48,Category D,,West Virginia,1353
+139.106.99.67,Category C,65.37,Missouri,729
+115.114.186.186,Category A,118.04,Montana,336
+112.18.103.212,Category C,85.68,Iowa,1056
+145.152.59.245,Category A,,West Virginia,
+165.223.17.228,Category D,37.62,New Mexico,763
+237.110.150.87,Category A,,Nevada,338
+46.174.119.92,Category A,218.5,Nebraska,577
+211.20.233.115,Category D,211.32,Wyoming,153
+207.141.204.131,Category C,,Connecticut,838
+155.137.149.81,Category C,,North Dakota,481
+13.97.200.212,Category A,120.68,Iowa,1471
+107.122.81.45,Category C,32.97,New Mexico,753
+187.246.160.242,Category A,,Kansas,1357
+113.31.92.74,Category A,,California,393
+208.236.150.71,Category A,23.12,Colorado,
+135.29.155.255,Category D,50.52,Georgia,349
+229.19.56.136,Category A,,Colorado,1798
+206.209.197.100,Category C,,Wyoming,1333
+132.237.217.205,Category C,165.82,Colorado,958
+64.72.39.225,Category A,204.57,West Virginia,801
+14.9.250.89,Category A,,Maryland,
+142.75.117.188,Category D,,Mississippi,711
+253.48.226.250,Category C,,North Carolina,970
+22.24.38.36,Category A,189.54,West Virginia,1535
+142.77.229.248,Category C,,Idaho,653
+29.229.119.87,Category B,,Minnesota,281
+73.185.38.180,Category D,61.73,Iowa,421
+153.47.113.134,Category A,,Rhode Island,116
+116.179.201.40,Category C,,Minnesota,1229
+203.243.32.119,Category B,,Missouri,1266
+221.56.152.252,Category C,49.75,Vermont,1256
+175.247.48.108,Category C,,Minnesota,409
+131.220.204.37,Category C,,North Carolina,1167
+65.228.84.93,Category C,157.09,Illinois,1141
+44.93.35.178,Category D,,Oregon,1709
+186.212.239.38,Category C,,South Dakota,353
+88.165.54.95,Category C,84.29,Idaho,911
+19.25.219.134,Category D,,Maine,1482
+170.161.156.148,Category D,206.0,Delaware,1093
+88.199.139.93,Category A,150.93,Florida,1495
+88.75.96.143,Category D,,Idaho,938
+244.166.146.34,Category C,34.42,South Carolina,713
+183.18.214.140,Category A,,Connecticut,1127
+140.94.89.90,Category A,,California,880
+35.43.108.157,Category C,199.36,Montana,1132
+176.121.96.235,Category A,39.74,Iowa,609
+205.105.113.188,Category B,166.39,Louisiana,795
+137.211.159.239,Category A,,Pennsylvania,1271
+158.180.72.252,Category C,104.58,Oklahoma,
+87.90.154.65,Category A,95.73,Minnesota,104
+60.157.246.57,Category C,,Massachusetts,274
+210.173.85.76,Category D,,Rhode Island,1086
+91.168.163.33,Category B,,New York,1559
+22.234.216.204,Category A,,Pennsylvania,629
+14.2.224.92,Category A,217.52,Oregon,865
+98.95.247.55,Category C,,Kansas,1215
+177.108.70.162,Category A,46.87,Vermont,1003
+121.95.6.179,Category D,,Ohio,
+32.45.119.74,Category B,106.11,California,275
+70.136.146.44,Category A,,Arkansas,
+200.201.36.173,Category C,,Maryland,1534
+178.51.70.161,Category D,,Connecticut,1692
+10.4.141.69,Category A,153.95,Montana,
+9.170.151.176,Category C,,Maryland,1436
+133.141.132.83,Category A,23.5,Ohio,1504
+198.33.230.3,Category C,41.29,Maryland,673
+226.105.166.149,Category A,56.34,Oklahoma,
+145.232.35.182,Category C,129.17,New York,1406
+174.107.83.25,Category A,104.11,Wyoming,
+75.164.223.171,Category C,,Wyoming,
+234.167.234.204,Category A,,Missouri,365
+224.207.158.64,Category C,117.58,New Hampshire,
+240.131.135.185,Category C,,New Jersey,237
+167.251.76.131,Category C,,Alabama,1247
+65.0.80.9,Category D,,South Dakota,1162
+55.109.104.83,Category A,31.22,South Dakota,626
+118.93.160.56,Category A,,Arkansas,1129
+153.119.4.148,Category C,,Iowa,92
+91.36.3.118,Category D,,Alaska,
+165.124.172.23,Category A,,Indiana,298
+53.41.103.85,Category A,,North Carolina,1796
+14.121.93.114,Category B,,Oregon,482
+55.224.59.153,Category B,,Delaware,407
+236.89.176.137,Category D,173.52,Nevada,1488
+29.13.199.239,Category C,210.45,Maryland,506
+229.207.137.240,Category A,41.23,Texas,943
+207.202.68.141,Category C,,Washington,
+143.150.255.229,Category D,40.37,Connecticut,
+17.13.100.201,Category C,,Wyoming,986
+6.245.67.138,Category C,18.05,Michigan,739
+135.229.208.148,Category A,,Kentucky,697
+221.167.153.151,Category C,,West Virginia,
+90.215.220.98,Category C,136.54,Arizona,679
+18.243.17.165,Category A,,Maine,242
+206.116.186.230,Category C,,Minnesota,
+50.10.5.50,Category D,,Wisconsin,696
+116.50.122.108,Category A,,Washington,11
+100.197.74.87,Category B,165.29,Illinois,408
+17.16.27.243,Category A,49.64,West Virginia,1238
+188.167.208.28,Category B,,Arkansas,
+185.203.22.28,Category D,,Indiana,910
+82.241.62.87,Category D,,Louisiana,937
+153.199.252.50,Category C,,Kansas,1059
+189.194.201.121,Category A,87.22,Nevada,459
+6.129.246.158,Category D,154.1,Maine,405
+139.73.109.24,Category C,,Oregon,1596
+205.184.28.214,Category A,,Florida,
+83.215.47.108,Category D,199.96,Missouri,539
+8.9.133.182,Category C,145.23,Washington,1552
+53.175.112.108,Category A,168.81,Hawaii,
+241.231.231.91,Category C,,North Dakota,210
+5.162.225.45,Category A,,Arkansas,1009
+6.2.65.235,Category A,99.87,Oregon,1527
+191.77.153.73,Category D,,Georgia,69
+131.206.228.69,Category C,,Montana,1145
+214.242.98.22,Category C,,Texas,964
+242.73.143.132,Category B,,Minnesota,1191
+45.183.216.92,Category A,,Kansas,575
+211.225.103.26,Category A,,Kentucky,585
+35.99.160.145,Category A,176.66,Arkansas,440
+40.34.227.223,Category C,,Georgia,
+101.149.203.127,Category A,174.76,Washington,1068
+181.229.79.76,Category A,81.0,Ohio,1550
+236.190.69.224,Category A,,Oklahoma,1476
+66.69.6.216,Category A,,Hawaii,151
+39.129.109.117,Category A,197.76,Texas,
+61.68.158.216,Category B,35.77,Massachusetts,
+90.159.123.93,Category A,143.18,New Mexico,563
+6.213.253.129,Category A,31.34,South Carolina,
+146.107.196.38,Category D,200.6,Arizona,1035
+73.58.139.162,Category A,,Alaska,1468
+208.41.34.189,Category A,106.12,Idaho,1717
+162.92.178.85,Category D,172.13,Massachusetts,
+163.176.191.77,Category C,213.97,Montana,
+113.180.81.139,Category D,,South Dakota,1570
+179.79.83.210,Category C,,Nevada,1493
+9.174.110.59,Category C,,Colorado,683
+198.100.185.164,Category B,,Florida,
+15.164.244.145,Category C,50.98,Montana,1362
+180.250.251.127,Category A,,Arizona,325
+195.20.244.34,Category A,,Colorado,926
+133.159.113.42,Category C,206.44,Maryland,1400
+201.130.136.116,Category D,,Utah,967
+80.85.154.141,Category C,,Maryland,
+12.0.202.208,Category C,101.73,Kentucky,205
+80.39.193.248,Category A,93.87,Rhode Island,994
+39.122.42.63,Category A,,Utah,
+30.231.201.7,Category C,192.55,Kentucky,1441
+95.73.8.101,Category A,,Indiana,
+239.14.211.247,Category A,,Arizona,38
+177.168.4.152,Category C,184.43,Alaska,1339
+205.190.190.167,Category A,,Arkansas,1241
+197.226.189.27,Category A,,Alabama,1242
+131.143.14.41,Category C,130.37,Georgia,716
+127.145.115.218,Category C,,Missouri,1061
+80.157.8.247,Category A,181.85,Illinois,719
+157.106.186.16,Category A,,Kansas,
+198.140.134.111,Category A,,North Dakota,1056
+124.252.17.21,Category D,41.8,Delaware,1794
+91.59.72.207,Category D,,Michigan,1078
+38.45.120.109,Category C,,Minnesota,
+163.217.81.109,Category C,175.95,Alaska,
+216.106.5.107,Category A,,Tennessee,
+224.64.113.81,Category B,25.16,Mississippi,
+44.66.129.248,Category A,206.13,Tennessee,
+92.228.76.225,Category C,,Kentucky,1585
+241.4.55.228,Category C,62.54,Utah,656
+185.93.98.48,Category C,132.5,Massachusetts,1743
+83.140.166.198,Category D,,Oregon,1251
+58.184.30.168,Category A,210.68,Kansas,1220
+194.167.82.178,Category A,,Georgia,1689
+135.137.220.77,Category D,,Kentucky,1476
+200.71.130.22,Category D,214.9,Michigan,124
+201.191.108.240,Category A,,New Mexico,1757
+193.47.131.90,Category C,,Delaware,314
+217.241.73.173,Category A,,South Carolina,1181
+94.147.9.161,Category A,169.06,New Hampshire,1654
+166.236.35.153,Category A,,Maryland,1390
+165.120.3.34,Category C,11.95,Wisconsin,232
+243.229.232.45,Category C,,New Mexico,1016
+26.5.46.240,Category A,,Alaska,1157
+49.103.122.15,Category A,164.04,Missouri,1072
+182.204.70.85,Category C,188.12,Alaska,1788
+122.80.53.112,Category D,41.5,Texas,590
+108.118.72.205,Category B,92.62,Minnesota,330
+197.166.249.33,Category D,93.03,Nevada,712
+134.201.79.242,Category C,180.59,Ohio,1448
+165.149.38.168,Category A,156.09,Rhode Island,1481
+205.81.1.214,Category D,,North Dakota,
+49.203.6.75,Category D,213.96,Indiana,1008
+103.122.141.215,Category A,142.48,California,795
+120.9.219.244,Category A,,Oregon,1363
+37.58.155.96,Category A,,Rhode Island,1374
+98.36.233.120,Category C,125.57,Colorado,1468
+42.112.178.237,Category A,,Arkansas,296
+144.223.223.109,Category A,,Rhode Island,
+10.158.28.49,Category B,73.88,Tennessee,402
+141.54.172.48,Category D,119.44,Georgia,1314
+226.138.250.189,Category A,191.73,Mississippi,1516
+162.133.106.177,Category D,,Louisiana,689
+14.171.142.207,Category A,218.81,Utah,613
+191.44.223.29,Category D,,Arkansas,1584
+94.113.126.41,Category C,192.98,North Carolina,1660
+144.215.97.67,Category D,157.59,Rhode Island,1416
+240.152.11.62,Category D,,New Hampshire,1201
+66.243.172.228,Category C,,Georgia,608
+19.49.4.21,Category A,62.27,Mississippi,130
+214.158.184.122,Category C,25.09,South Carolina,1524
+219.63.58.23,Category A,,North Carolina,1514
+225.195.82.42,Category C,,Michigan,172
+162.217.62.252,Category A,,Iowa,410
+197.128.253.159,Category C,,Georgia,1668
+155.174.122.22,Category A,,Washington,340
+126.119.155.200,Category A,187.81,Mississippi,81
+171.156.191.248,Category D,63.04,Montana,
+87.173.65.118,Category D,92.43,Georgia,1529
+148.175.235.66,Category C,,Kentucky,711
+118.237.64.236,Category D,,Minnesota,
+204.135.75.209,Category A,202.32,Illinois,1154
+184.42.166.112,Category A,190.41,Indiana,179
+151.66.192.117,Category C,85.9,Missouri,
+232.192.141.155,Category D,70.36,Idaho,441
+41.189.35.69,Category D,120.53,Maryland,1038
+38.22.56.192,Category C,69.15,Arkansas,
+84.103.251.142,Category B,,Oklahoma,1688
+198.165.138.51,Category A,69.35,Arizona,249
+195.1.43.77,Category A,92.6,North Carolina,73
+3.66.108.113,Category C,38.62,Michigan,1403
+119.15.225.225,Category C,51.65,Wyoming,155
+7.99.122.214,Category A,,New Hampshire,
+164.61.244.146,Category C,,Connecticut,325
+145.68.224.18,Category A,17.07,Rhode Island,1035
+198.144.184.198,Category A,,West Virginia,73
+42.244.55.198,Category A,147.61,West Virginia,1659
+54.15.10.137,Category D,86.02,Kentucky,1749
+165.193.58.206,Category C,176.05,Wisconsin,203
+27.26.176.29,Category A,,Texas,1011
+110.31.136.162,Category A,,Kentucky,
+100.78.231.101,Category A,,Delaware,840
+212.212.153.86,Category A,,New Hampshire,
+27.112.251.101,Category A,,Delaware,365
+213.211.124.67,Category B,104.4,New Hampshire,1748
+178.212.101.173,Category C,145.8,Wisconsin,821
+254.161.205.153,Category A,25.66,Washington,1589
+104.182.41.136,Category C,163.43,North Dakota,188
+167.194.234.204,Category A,,South Dakota,1284
+141.153.47.11,Category D,,Pennsylvania,1514
+45.222.95.139,Category A,23.07,Michigan,1576
+37.158.7.31,Category C,,Indiana,380
+53.6.81.66,Category A,,Nevada,764
+146.157.60.30,Category D,,New Mexico,484
+61.59.238.111,Category A,97.09,Virginia,
+249.168.86.188,Category A,64.56,Wyoming,314
+67.11.240.241,Category C,,Virginia,1198
+74.178.102.100,Category C,,Virginia,1058
+104.73.81.111,Category A,,Louisiana,199
+214.208.192.47,Category D,29.32,Hawaii,130
+79.33.79.133,Category A,212.32,Washington,607
+197.85.121.171,Category A,,Maryland,1103
+36.122.182.145,Category A,137.68,Nevada,1193
+111.69.255.6,Category D,,West Virginia,195
+248.30.152.33,Category A,210.6,Colorado,896
+223.242.165.64,Category C,52.25,Alabama,1041
+66.227.107.167,Category A,115.07,Alabama,336
+76.239.131.157,Category A,,New Hampshire,238
+51.173.6.3,Category A,130.89,Montana,1450
+53.71.103.140,Category C,,Arkansas,
+118.214.57.25,Category C,,South Carolina,
+14.231.228.32,Category A,75.07,Michigan,1640
+52.211.198.5,Category A,,Missouri,232
+67.251.77.3,Category A,169.64,South Dakota,301
+40.38.8.84,Category A,,Missouri,1030
+187.73.203.76,Category A,136.28,North Dakota,1626
+168.212.183.234,Category C,119.87,Wyoming,312
