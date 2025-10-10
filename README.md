@@ -61,3 +61,61 @@ The orchestrator ensures that:
 
 ####  Workflow
 [Reader] → [Processors] → [Writer]
+
+###  Clone the repository
+First, clone this repository to your local machine and move into the project directory:
+
+```bash
+git clone https://github.com/Linda-Hasanaj/DataPipeline.git
+cd DataPipeline
+```
+
+---
+
+### Create and activate a virtual environment
+It’s strongly recommended to use a virtual environment to isolate dependencies.
+
+```bash
+# Create virtual environment
+python -m venv .venv
+
+# Activate the environment
+# On Linux/Mac:
+source .venv/bin/activate
+# On Windows (PowerShell):
+.venv\Scripts\activate
+```
+
+Once activated, your terminal should show `(.venv)` before the prompt — that means the environment is active.
+
+---
+
+### Install dependencies
+Make sure pip is up-to-date, then install all required Python packages:
+
+```bash
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+---
+
+### Configure environment variables
+This project uses a '.env' file to store database credentials and configuration.
+
+Create one by copying the provided example:
+```bash
+cp .env.example .env
+```
+
+Then open '.env' and fill in your local database connection string:
+```
+DATABASE_DSN=postgresql+psycopg://postgres:password@localhost:5432/Pipeline
+```
+---
+
+
+### Run the FastAPI server with Uvicorn
+```bash
+uvicorn api:app --reload
+```
