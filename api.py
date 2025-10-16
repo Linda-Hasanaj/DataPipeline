@@ -69,7 +69,7 @@ def health():
 @app.post("/ingest")
 def ingest(req: IngestRequest):
     # default DSN
-    dsn = req.dsn or "postgresql+psycopg://postgres:Attributy123!@localhost:5432/Pipeline"
+    dsn = req.dsn
 
     try:
         orch = build_pipeline(
@@ -83,7 +83,7 @@ def ingest(req: IngestRequest):
         )
         orch.run()
     except Exception as e:
-        print("INGEST ERROR:", repr(e))  # add this line
+        print("INGEST ERROR:", repr(e))
         raise HTTPException(status_code=500, detail=str(e))
 
     return {
@@ -92,3 +92,6 @@ def ingest(req: IngestRequest):
         "source": req.path,
         "if_exists": req.if_exists,
     }
+
+from mangum import Mangum
+handler = Mangum(app)

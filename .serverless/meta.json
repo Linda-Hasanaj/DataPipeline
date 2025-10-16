@@ -1,0 +1,79 @@
+{
+  "unknown": {
+    "versionFramework": "4.21.0",
+    "error": {
+      "message": "Configuration file not found",
+      "stack": "Error: Configuration file not found\n    at _CoreRunner.run (file:///home/attributy-user/.serverless/releases/4.21.0/package/dist/sf-core.js:1029:8287)\n    at route (file:///home/attributy-user/.serverless/releases/4.21.0/package/dist/sf-core.js:1509:2891)\n    at async Object.run (file:///home/attributy-user/.serverless/releases/4.21.0/package/dist/sf-core.js:1510:3755)\n    at async run2 (file:///home/attributy-user/.serverless/releases/4.21.0/package/dist/sf-core.js:1510:4909)",
+      "code": "CONFIG_FILE_NOT_FOUND"
+    },
+    "command": [
+      "plugin",
+      "install"
+    ],
+    "options": {
+      "n": "serverless-offline"
+    },
+    "serviceProviderAwsCfStackId": null,
+    "serviceProviderAwsCfStackCreated": null,
+    "serviceProviderAwsCfStackUpdated": null,
+    "serviceProviderAwsCfStackStatus": null,
+    "serviceProviderAwsCfStackOutputs": null
+  },
+  "/home/attributy-user/DataPipeline/serverless.yml": {
+    "versionFramework": "4.21.0",
+    "servicePath": "/home/attributy-user/DataPipeline/serverless.yml",
+    "serviceConfigFileName": "serverless.yml",
+    "service": {
+      "service": "attributy-pipeline-offline",
+      "frameworkVersion": "4",
+      "provider": {
+        "name": "aws",
+        "runtime": "python3.10"
+      },
+      "plugins": [
+        "serverless-offline"
+      ],
+      "functions": {
+        "ingest": {
+          "handler": "handlers/ingest_handler.lambda_handler",
+          "events": [
+            {
+              "httpApi": {
+                "path": "/ingest",
+                "method": "POST"
+              }
+            }
+          ]
+        },
+        "metrics": {
+          "handler": "handlers/metrics_handler.lambda_handler",
+          "events": [
+            {
+              "httpApi": {
+                "path": "/metrics",
+                "method": "GET"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "provider": {
+      "name": "aws",
+      "runtime": "python3.10"
+    },
+    "serviceRawFile": "service: attributy-pipeline-offline\nframeworkVersion: '4'   # you’re on v4.21.0\n\nprovider:\n  name: aws\n  runtime: python3.10    # matches your Python 3.10.12\n\nplugins:\n  - serverless-offline\n\nfunctions:\n  ingest:\n    handler: handlers/ingest_handler.lambda_handler\n    events:\n      - httpApi:\n          path: /ingest\n          method: POST\n\n  metrics:\n    handler: handlers/metrics_handler.lambda_handler\n    events:\n      - httpApi:\n          path: /metrics\n          method: GET\n",
+    "command": [
+      "plugin",
+      "install"
+    ],
+    "options": {
+      "n": "serverless-offline"
+    },
+    "serviceProviderAwsCfStackId": null,
+    "serviceProviderAwsCfStackCreated": null,
+    "serviceProviderAwsCfStackUpdated": null,
+    "serviceProviderAwsCfStackStatus": null,
+    "serviceProviderAwsCfStackOutputs": null
+  }
+}

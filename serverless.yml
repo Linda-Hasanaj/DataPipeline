@@ -1,0 +1,20 @@
+service: attributy-pipeline-offline
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.10
+
+plugins:
+  - serverless-offline
+
+functions:
+  app:
+    handler: api.handler
+    events:
+      - httpApi:
+          path: /{proxy+}
+          method: ANY
+      - httpApi:
+          path: /
+          method: ANY
