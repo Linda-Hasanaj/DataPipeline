@@ -3,7 +3,8 @@
 ## Overview
 This project implements a modular data processing pipeline.  
 It ingests marketing data from a CSV file, processes and enriches it through multiple stages, and writes the results into a PostgreSQL database.  
-The pipeline is fully object-oriented, designed for extensibility and reusability, and can be triggered through a FastAPI endpoint.
+The pipeline is fully object-oriented, designed for extensibility and reusability.
+It can be triggered locally through FastAPI or emulated as AWS Lambda functions using Serverless Framework.
 
 ---
 
@@ -62,7 +63,7 @@ The orchestrator ensures that:
 ####  Workflow
 [Reader] → [Processors] → [Writer]
 
-###  Clone the repository
+###  Setup guide
 First, clone this repository to your local machine and move into the project directory:
 
 ```bash
@@ -108,14 +109,39 @@ Create one by copying the provided example:
 cp .env.example .env
 ```
 
-Then open '.env' and fill in your local database connection string:
-```
-DATABASE_DSN=postgresql+psycopg://postgres:password@localhost:5432/Pipeline
-```
+Then open '.env' and fill in your local PstgreSQL configuration:
+
+PGUSER=user
+PGPASSWORD=password
+PGHOST=localhost
+PGPORT=5432
+PGDATABASE=Pipeline
+
+These variables are automatically used to build the PostgreSQL connection string.
+
 ---
 
 
 ### Run the FastAPI server with Uvicorn
 ```bash
 uvicorn api:app --reload
+```
+
+### Serverless setup
+The project also supports deployment and local testing via the Serverless Framework, which emulates AWS Lambda and API Gateway locally.
+1. Install Serverless
+```
+npm install -g serverless
+npm install
+```
+2. Start serverless offline
+```
+npx sls offline
+```
+
+### Running tests
+Unit tests are located in tests/ directory
+Run them using pytest
+```
+pytest -v
 ```
