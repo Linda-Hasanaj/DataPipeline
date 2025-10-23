@@ -103,10 +103,8 @@ class PostgreSQLStorage(Writer):
 
     def _ensure_engine(self, dsn: str) -> None:
         if self._engine is None:
-            # Mask password in logs
             masked = dsn
             try:
-                # very basic masking for common DSN shapes
                 before, after = dsn.split("://", 1)
                 creds, rest = after.split("@", 1)
                 if ":" in creds:
@@ -146,7 +144,6 @@ class PostgreSQLStorage(Writer):
             elif pd.api.types.is_bool_dtype(dtype):
                 mapping[col] = BOOLEAN()
             else:
-                # default to text; if you know max lengths, set VARCHAR(n)
                 mapping[col] = VARCHAR()
         return mapping
 

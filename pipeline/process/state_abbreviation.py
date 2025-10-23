@@ -61,22 +61,17 @@ class StateAbbreviationProcessor(Processor):
             df["state_abbreviation"] = pd.NA
             return df
 
-        # Normalize input once
         state_raw = df["state"].astype("string")
         state_trim = state_raw.str.strip()
 
-        # 1) Name-based mapping (lowercased keys)
         state_lower = state_trim.str.casefold()
         mapped_from_name = state_lower.map(self._name_to_abbr)
 
-        # 2) Already an abbreviation? Keep it.
         state_upper = state_trim.str.upper()
         already_abbr = state_upper.where(state_upper.isin(self._abbr_set), other=pd.NA)
 
-        # Prefer name mapping, else keep existing abbr
         df["state_abbreviation"] = mapped_from_name.fillna(already_abbr)
 
-        # Optional: log unmapped values to help debugging
         unmapped = df.loc[state_trim.notna() & df["state_abbreviation"].isna(), "state"].unique()
         if len(unmapped) > 0:
             self.log(f"Unmapped states ({len(unmapped)}): {sorted(map(str, unmapped))}")

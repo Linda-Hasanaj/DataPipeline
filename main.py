@@ -8,6 +8,7 @@ from pipeline.process.conversion import ConversionProcessor
 from pipeline.process.state_abbreviation import StateAbbreviationProcessor
 from pipeline.process.normalization import NormalizationProcessor
 from pipeline.process.percentile import PercentileProcessor
+from pipeline.process.analysis_processor import AnalysisProcessor
 from pipeline.write.postgres_storage import PostgreSQLStorage
 
 """
@@ -59,7 +60,7 @@ def build_and_run():
         StateAbbreviationProcessor("StateAbbrev"),
         NormalizationProcessor("Norm", {"method": "min_max"}),
         PercentileProcessor("Percentile", {"percentile": 0.85}),
-        #AnalysisProcessor("Analysis"),
+        AnalysisProcessor("Analysis"),
     ]
     writer = PostgreSQLStorage("PostgresWriter", {
         "dsn": dsn, "schema": schema, "table": table,

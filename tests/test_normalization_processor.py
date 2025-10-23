@@ -14,7 +14,6 @@ def _proc(config=None):
     p.log = lambda msg: p._logs.append(str(msg))
     return p
 
-
 def test_returns_same_df_instance():
     df = pd.DataFrame({"purchase": [1, 2, 3]})
     p = _proc()

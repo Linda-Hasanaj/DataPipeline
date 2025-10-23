@@ -92,14 +92,12 @@ class PercentileProcessor(Processor):
             )
             per_row_state_cut = df["state"].map(state_cuts)
         else:
-            # No state column; treat all as no state threshold
             self.log("WARN: 'state' column missing; '85th_percentile_state' will be 0 for all rows.")
             per_row_state_cut = pd.Series(np.nan, index=df.index)
 
         state_flag = valid & (purchase >= per_row_state_cut)
         national_flag = valid & (purchase >= national_cut)
 
-        # Output dtype
         if out_dtype == "bool":
             df["85th_percentile_state"] = state_flag
             df["85th_percentile_national"] = national_flag
