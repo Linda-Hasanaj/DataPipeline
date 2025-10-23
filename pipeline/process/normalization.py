@@ -2,17 +2,46 @@ from __future__ import annotations
 import pandas as pd
 from pipeline.process.processor import Processor
 
-class NormalizationProcessor(Processor):
-    """Create normalized_purchase column from the normalization of purchase column either by using z score or min max method
-    Supported methods:
-    - "z_score": standard score normalization x - mean  /std
-    -"min_max": scales values to [0, 1] range
+"""
+This module defines :class: NormalizationProcessor, a concrete implementation of :class:pipeline.process.processor.Processor.
 
-    Config options:
-    - method: str, either "z_score" or "min_max (default: "z_score")
+It's purpose is to normalize numerical purchase values in the dataset to ensure they are comparable and standardized. This transformation helps in downstream
+analyses such as percentile computation and model training.
+
+Two normalization methods are supported:
+- z_score - Standard score normalization:
+    (x - mean) /std
+- min_max - Min-max normalization:
+    (x - mean) /std
+    
+If the purchase column is missing or contains only non-numeric data, the processor logs a warning and adds a normalized_purchases column filled with NA values
+"""
+class NormalizationProcessor(Processor):
+    """
+    Processor that normalizes the purchase column.
+
+    This processor scales or standardizes the values in the purchase column according to a chosen normalization method, either z-score or min-max. The result is
+    stored in a new column called normalized_purchases.
+
+    :param name: The name assigned to this processor instance.
+    :type name: str
+    :param config: Configuration dictionary supporting:
+        - method (str): Normalization strategy. Accepts:
+            - z-score: Uses standard score normalization (default)
+            - min_max: Scales values into the range [0, 1]
+    :type config: dict | None
     """
 
     def process(self, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Normalizes the purchase column based on the configured method.
+
+        The processor converts the purchase column to numeric form and applies the chosen normalization algorithm. Handles missing or invalid numeric data gracefully.
+        :param df: Input pandas dataframe containing the purchase column
+        :type df: pd.DataFrame
+        :return: The dataframe with a new normalized_purchase column
+        :rtype: pd.DataFrame
+        """
         self.log("Normalizing purchase column")
         if "purchase" not in df.columns:
             self.log("WARN: 'purchase column is missing, skipping normalization")
