@@ -9,14 +9,59 @@ from sqlalchemy.exc import SQLAlchemyError
 
 from pipeline.write.writer import Writer
 
-class PostgreSQLStorage(Writer):
+"""
+postgresql_storage.py
+=====================
 
+This module defines the :class:`PostgreSQLStorage` class, which is responsible for
+writing data to a PostgreSQL database.
+
+The processor is configured with a Data Source Name (DSN), the target table, and
+other optional parameters like chunk size and behavior for existing data. It uses
+SQLAlchemy to manage database connections and data insertion.
+
+Key Features:
+- Supports large datasets with chunked insertions.
+- Automatically infers PostgreSQL column types based on Pandas DataFrame types.
+- Logs connection details (with password masking) and handles schema creation if needed.
+- Handles database write failures with proper error handling and logging.
+"""
+
+class PostgreSQLStorage(Writer):
+    """Writes data from a Pandas DataFrame to a PostgreSQL database.
+
+        This processor uses SQLAlchemy to handle database connections and insert data
+        into the specified PostgreSQL table. It supports chunked inserts, type inference,
+        and error handling.
+
+        :param name: The name assigned to this writer instance.
+        :type name: str
+        :param config: Configuration dictionary containing the following parameters:
+            - ``dsn`` (*str*): The Data Source Name (DSN) for connecting to PostgreSQL.
+            - ``table`` (*str*): The target table in PostgreSQL where data will be written.
+            - ``schema`` (*str*, optional): The schema in PostgreSQL (default is `public`).
+            - ``if_exists`` (*str*, optional): What to do if the table already exists ("append", "replace", or "fail").
+            - ``chunksize`` (*int*, optional): The number of rows to write per chunk (default is `10_000`).
+            - ``index`` (*bool*, optional): Whether to include the DataFrame index as a column in the table.
+        :type config: dict | None"""
     def __init__(self, name: str, config: Dict[str, Any] | None = None) -> None:
         super().__init__(name=name, config=config or {})
         self._engine: Optional[Engine] = None
 
 
     def write(self, df: pd.DataFrame) -> int:
+        """Writes the provided DataFrame to the PostgreSQL database.
+
+               This method attempts to insert the data in chunks to avoid overwhelming
+               the database. It uses the configuration parameters for the DSN, table name,
+               and other optional parameters to perform the write operation.
+
+               :param df: The Pandas DataFrame containing the data to be written.
+               :type df: pandas.DataFrame
+               :return: The number of rows written to the database.
+               :rtype: int
+               :raises SQLAlchemyError: If an error occurs during the database write operation.
+               """
         dsn = self._require("dsn")
         table = self._require("table")
         schema = self.config.get("schema", "public")
