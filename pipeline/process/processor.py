@@ -76,6 +76,3 @@ class Processor(Task, ABC):
         """
         self.log("Processor.run() -> delegating to process()")
         return self.process(df)
-
-
-

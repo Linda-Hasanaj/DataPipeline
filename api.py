@@ -10,6 +10,7 @@ from pipeline.process.conversion import ConversionProcessor
 from pipeline.process.state_abbreviation import StateAbbreviationProcessor
 from pipeline.process.normalization import NormalizationProcessor
 from pipeline.process.percentile import PercentileProcessor
+from pipeline.process.analysis_processor import AnalysisProcessor
 from pipeline.write.postgres_storage import PostgreSQLStorage
 
 
@@ -101,23 +102,24 @@ def build_pipeline(
     """
     reader = CSVReader(name="CSV", config={"path": csv_path, "sep": sep})
 
-    # Processors (order matters: fix missing values before conversions/normalization)
+    # Processors
     processors = [
         MissingValuesProcessor(name="MissingValue", config={"strategy": "mean"}),
         ConversionProcessor(name="Conversion"),
         StateAbbreviationProcessor(name="StateAbbrev"),
         NormalizationProcessor(name="Norm", config={"method": "min_max"}),
         PercentileProcessor(name="Percentile", config={"percentile": 0.85}),
+        AnalysisProcessor(name="Analysis"),
     ]
 
     # Writer
     writer = PostgreSQLStorage(
         name="PostgresWriter",
         config={
-            "dsn": dsn,  # use the request DSN
+            "dsn": dsn,
             "schema": schema,
             "table": table,
-            "if_exists": if_exists,  # use the request if_exists
+            "if_exists": if_exists,
             "chunksize": chunksize,
             "index": False,
         },

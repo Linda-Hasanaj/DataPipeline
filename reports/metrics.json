@@ -1,0 +1,17 @@
+{
+  "rows": 1000,
+  "conversion_rate": 0.461,
+  "total_sales": 54108.490000000005,
+  "outliers": {
+    "count": 0,
+    "q1": 65.37,
+    "q3": 169.34,
+    "iqr": 103.97,
+    "lower": -90.58499999999998,
+    "upper": 325.29499999999996
+  },
+  "state_sales": {
+    "highest_state": "Montana",
+    "lowest_state": "Connecticut"
+  }
+}

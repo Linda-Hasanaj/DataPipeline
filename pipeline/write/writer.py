@@ -52,7 +52,6 @@ class Writer(Task, ABC):
                """
         raise NotImplementedError()
 
-    # and adapter for the orchestrator
     def run(self, df: pd.DataFrame) -> int:
         """Executes the write operation.
 

@@ -22,4 +22,3 @@ class Task:
 
     def log(self, msg: str) -> None:
         print(f"[{self.name}] {msg}")
-
